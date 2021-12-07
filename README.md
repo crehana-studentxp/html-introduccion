@@ -1,6 +1,6 @@
 <div id="top">
   <a href="https://www.crehana.com">
-    <img src="images/logo.png" alt="Logo" width="60" height="60">
+    <img src="images/logo.png" alt="Logo" width="50" height="50">
   </a>
   <a href="https://www.crehana.com/clases/v2/12147/detalle/">
     <img src="images/curso.png" alt="Logo" width="160" height="50">
