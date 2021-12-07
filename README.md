@@ -52,14 +52,14 @@ Recomendamos el uso de Atom como editor de código.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
-## License
+## Licencia
 
 Distribuido bajo la licencia MIT License. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
 ¿Tienes comentarios sobre los archivos del curso? Envíanos un correo a proyectos@crehana.com
 
