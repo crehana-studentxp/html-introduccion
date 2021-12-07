@@ -22,7 +22,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## Acerca del Proyecto
+## Acerca del proyecto
 
 Para la primer parte del proyecto, vas a crear una página web personal usando las  etiquetas que vimos en clase. Para esto:  
 <ol>
@@ -42,7 +42,7 @@ Para la segunda parte vas a crear un formulario, tratando de usar la mayoría de
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Tecnologías Usadas
+### Tecnologías usadas
 
 El curso, sus ejemplos y proyectos propuestos están desarrollados en HTML.
 Recomendamos el uso de Atom como editor de código.
