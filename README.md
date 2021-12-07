@@ -1,4 +1,4 @@
-<div id="top" vertical-align="middle">
+<div id="top">
   <a href="https://www.crehana.com">
     <img src="images/logo.png" alt="Logo" width="60" height="60">
   </a>
